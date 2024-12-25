@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "cdb8ec9cb889f1cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "27ec68148c032f92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d827ca2a1ca82daf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LINUX.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "LINUX"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a6e5bdbbed74829c",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfd2bdb548705e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be20f16799ac701b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "d5a63f6eba265a9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#nameserver",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "b93ae23ad7daf6da",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 255.5
+  },
+  "right": {
+    "id": "88eaa60f8a37bdb3",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4206841d19bf602",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0dd8edb2eda9aa29",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "LINUX.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "LINUX 的反向链接列表"
+            }
+          },
+          {
+            "id": "a49ef0c2496a0446",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LINUX.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LINUX 的出链列表"
+            }
+          },
+          {
+            "id": "1b4efa5b8fbcb004",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "87b2dee8a607ee08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LINUX.md"
+              },
+              "icon": "lucide-list",
+              "title": "LINUX 的大纲"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false
+    }
+  },
+  "active": "d827ca2a1ca82daf",
+  "lastOpenFiles": [
+    "2024-11-08.md",
+    "LINUX.md",
+    "目录.md",
+    "mkfs—格式化分区（建立文件系统）.md",
+    "mkfs.md",
+    "().md",
+    "Pasted image 20241225204002.png",
+    "Pasted image 20241225203913.png",
+    "Pasted image 20241225195821.png",
+    "你的图片链接.md",
+    "Pasted image 20241225140239.png",
+    "image.png",
+    "未命名思维导图.md",
+    "未命名思维导图 4.md",
+    "未命名思维导图 3.md",
+    "未命名思维导图 2.md",
+    "未命名思维导图 1.md",
+    "未命名.canvas",
+    "alias.md",
+    "image-1.png"
+  ]
+}
